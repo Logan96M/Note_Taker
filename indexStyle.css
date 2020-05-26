@@ -1,0 +1,36 @@
+.employee {
+    display: inline-flex;
+   flex-direction: column;
+    border-style: solid;
+    border-color: coral;
+    background-color: rgb(70, 66, 66);
+
+}
+h1 {
+    margin: auto;
+    color: white;
+}
+h2 {
+    color: aliceblue;
+}
+
+.role {
+    display: inline-flex;
+   flex-direction: column;
+    border-style: solid;
+    border-color: coral;
+    background-color: rgb(70, 66, 66);
+}
+
+
+.department {
+    display: inline-flex;
+   flex-direction: column;
+    border-style: solid;
+    border-color: coral;
+    background-color: rgb(70, 66, 66);
+}
+
+.container {
+    background-color: rgba(12, 11, 11, 0.739);
+}
